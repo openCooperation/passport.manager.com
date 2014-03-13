@@ -1,4 +1,2 @@
-passport.manager.com
-====================
-
+oh,my fuck
 manager
